@@ -1,14 +1,13 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+Angie Sofia Truaquero Mercado 
+**profesion**:operaciones logisticas 
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-
+- **Email:** angietruaquero@gamail.com 
+- **LinkedIn:** [https://www.linkedin.com/in/angie-truaquero-12b395352](https://www.linkedin.com/in/angie-truaquero-12b395352)
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
 - Puesto ocupado y descripción breve.
