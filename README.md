@@ -1,30 +1,43 @@
-# CV_Example
-# Hoja de Vida
+# CV_Angie Truaquero
 
 Angie Sofia Truaquero Mercado 
-**profesion**:operaciones logisticas 
+**profesion**:Integracion operaciones logisticas
+**Introducción:**
 
-## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
+Soy estudiante del programa de Integraciones Logísticas con un enfoque en la optimización de procesos y gestión de la cadena de suministro. A lo largo de mi formación, he adquirido conocimientos sólidos en logística, administración de inventarios y el uso de herramientas como Excel para analizar datos y facilitar la toma de decisiones. Estoy comprometido con el aprendizaje continuo y tengo una fuerte disposición para aplicar mis conocimientos en entornos laborales dinámicos, contribuyendo a la mejora de la eficiencia operativa y la gestión efectiva de recursos.
+
 - **Email:** angietruaquero@gamail.com 
 - **LinkedIn:** [https://www.linkedin.com/in/angie-truaquero-12b395352](https://www.linkedin.com/in/angie-truaquero-12b395352)
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Empresa Manufacturas Eliot  _(2024 - Actualidad)_
+- Aprendiz Sena  
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **PONAL _(2023- 2024)_
+- PRESTACION DEL SERVICIO MILITAR 
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2024 - 2025)_
+- Tecnico En Operaciones Logisticas 
 
-## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+### **Institucion Educativa Macajan** _(2014 - 2019)_
+- bachiller 
 
----
+**Habilidades:**
+
+- Manejo avanzado de Excel para análisis de datos, creación de informes y modelado de inventarios.
+- Conocimiento en la gestión de inventarios, control de stock y optimización de niveles de inventario.
+- Planificación y coordinación de la cadena de suministro, incluyendo la gestión de transporte y almacenes.
+- Identificación y resolución de problemas logísticos mediante el uso de metodologías eficientes.
+- Dominio de herramientas de software para la planificación y control de operaciones logísticas.
+
+**Competencias:**
+
+- Capacidad analítica para interpretar datos y realizar proyecciones de inventarios.
+- Habilidades organizativas para gestionar múltiples tareas y proyectos logísticos.
+- Trabajo en equipo y colaboración en ambientes multidisciplinarios.
+- Orientación a la mejora continua y optimización de procesos.
+- Comunicación efectiva con proveedores, clientes y equipos interno.
+
 
 ## 🎨 Formatos y Fuentes Disponibles
 
